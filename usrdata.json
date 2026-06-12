@@ -80,6 +80,12 @@
     {
         "device_id": "156c6ee2886197e1",
         "key": "156c6ee2886197e1",
+        "expirydate": "11-01-2040",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "2dc634b8a247d6fd",
+        "key": "2dc634b8a247d6fd",
         "expirydate": "10-01-2040",
         "Allowoffline": true
     }
