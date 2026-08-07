@@ -760,5 +760,11 @@
         "key": "261d752580551555",
         "expirydate": "7-05-2040",
         "Allowoffline": true
+    },
+    {
+        "device_id": "ce531fcc1a5c9aca",
+        "key": "ce531fcc1a5c9aca",
+        "expirydate": "8-05-2040",
+        "Allowoffline": true
     }
 ]
