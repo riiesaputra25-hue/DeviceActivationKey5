@@ -1168,5 +1168,11 @@
         "key": "de37258bc1c94498",
         "expirydate": "16-07-2040",
         "Allowoffline": true
+    },
+    {
+        "device_id": "1021edcaddcba142",
+        "key": "1021edcaddcba142",
+        "expirydate": "17-07-2040",
+        "Allowoffline": true
     }
 ]
