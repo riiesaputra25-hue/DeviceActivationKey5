@@ -1505,4 +1505,10 @@
         "expirydate": "9-09-2040",
         "Allowoffline": true
     },
+    {
+        "device_id": "628b55a182487858",
+        "key": "628b55a182487858",
+        "expirydate": "10-09-2040",
+        "Allowoffline": true
+    },
 ]
