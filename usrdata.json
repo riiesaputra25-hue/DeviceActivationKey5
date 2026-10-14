@@ -1571,4 +1571,10 @@
         "expirydate": "20-09-2040",
         "Allowoffline": true
     },
+    {
+        "device_id": "ca8d624f42485505",
+        "key": "ca8d624f42485505",
+        "expirydate": "21-09-2040",
+        "Allowoffline": true
+    },
 ]
