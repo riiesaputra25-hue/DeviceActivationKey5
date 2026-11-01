@@ -1811,4 +1811,10 @@
         "expirydate": "30-10-2040",
         "Allowoffline": true
     },
+    {
+        "device_id": "da9430f358a1b521",
+        "key": "da9430f358a1b521",
+        "expirydate": "1-11-2040",
+        "Allowoffline": true
+    },
 ]
