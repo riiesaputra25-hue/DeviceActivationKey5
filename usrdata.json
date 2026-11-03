@@ -1847,4 +1847,10 @@
         "expirydate": "6-11-2040",
         "Allowoffline": true
     },
+    {
+        "device_id": "204d9598414e930d",
+        "key": "204d9598414e930d",
+        "expirydate": "7-11-2040",
+        "Allowoffline": true
+    },
 ]
