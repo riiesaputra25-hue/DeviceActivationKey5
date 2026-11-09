@@ -1949,4 +1949,10 @@
         "expirydate": "24-12-2040",
         "Allowoffline": true
     },
+    {
+        "device_id": "7cba2560b6eadd30",
+        "key": "7cba2560b6eadd30",
+        "expirydate": "25-12-2040",
+        "Allowoffline": true
+    },
 ]
