@@ -1973,4 +1973,10 @@
         "expirydate": "28-12-2040",
         "Allowoffline": true
     },
+    {
+        "device_id": "6a3d38f7cf0254bd",
+        "key": "6a3d38f7cf0254bd",
+        "expirydate": "29-12-2040",
+        "Allowoffline": true
+    },
 ]
